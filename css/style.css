@@ -1,36 +1,27 @@
 *{
     color: white;
 }
+
+.upper{
+    text-transform: uppercase;
+}
+
+.stylized-hr > .line {
+    background-color: white;
+    height: .2rem;
+    width: 3rem;
+}
+
+.my-container{
+    max-width: 100rem;
+}
+
 /* ****************** */
 /* COLOR SECTION */
 /* ****************** */
 
 .b-green{
     background-color: #1abc9c;
-}
-
-.b-magenta{
-    background-color: #ba4b63;
-}
-
-.b-azure{
-    background-color: #1ea4b6;
-}
-
-.b-brown{
-    background-color: #140f0f;
-}
-
-.b-light-blue{
-    background-color: #1c83c1;
-}
-
-.b-blue{
-    background-color: #0e38b5;
-}
-
-.b-beige{
-    background-color: #ccb2a3;
 }
 
 .b-navy{
