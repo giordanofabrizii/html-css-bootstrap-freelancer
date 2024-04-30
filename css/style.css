@@ -21,6 +21,24 @@ p{
     font-weight: 600;
 }
 
+footer p{
+    font-size: 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.circle-link{
+    width: 2rem;
+    aspect-ratio: 1 / 1;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* ****************** */
 /* COLOR SECTION */
 /* ****************** */
@@ -39,6 +57,10 @@ p{
 
 .stylized-hr > .line.b-blue{
     background-color: #333333;
+}
+
+.c-green{
+    color: #1abc9c;
 }
 
 .c-white{
