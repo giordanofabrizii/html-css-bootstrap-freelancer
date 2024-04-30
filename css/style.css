@@ -39,6 +39,10 @@ a{
     align-items: center;
 }
 
+.btn.b-green:hover{
+    background-color: #1abc9c;
+}
+
 /* ****************** */
 /* COLOR SECTION */
 /* ****************** */
